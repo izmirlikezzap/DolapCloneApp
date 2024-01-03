@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493391385267",
+    "project_id": "dolapcloneapp",
+    "storage_bucket": "dolapcloneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493391385267:android:0c2f05f9b0d7293f7516c6",
+        "android_client_info": {
+          "package_name": "com.example.dolapcloneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuxM20r6BF1hrXFZbcU72ZjQw2tLb6qiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
